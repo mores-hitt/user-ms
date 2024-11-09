@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+option csharp_namespace = "user_ms.Src.Protos";
+
+message Empty {
+
+}

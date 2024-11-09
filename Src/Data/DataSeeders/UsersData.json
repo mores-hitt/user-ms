@@ -1,0 +1,13 @@
+[
+    {
+        "Name": "ferna",
+        "FirstLastName": "sana",
+        "SecondLastName": "amp",
+        "RUT": "11.930.426-1",
+        "Email": "ferna@hotmail.com",
+        "HashedPassword": "hola1234",
+        "IsEnabled": true,
+        "CareerId": 1,
+        "RoleId": 1
+    }
+]
